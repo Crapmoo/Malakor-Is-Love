@@ -4,10 +4,13 @@
     position:fixed;
     bottom: 0;
     right: 0;
+    font-family: 'Alfa Slab One', cursive;
 }
 
 body {
     background:rgb(252, 251, 252);
+    max-width: 90%;
+    max-height: 90%;
 }
 .glow-on-hover {
     width: 220px;
